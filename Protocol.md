@@ -5,7 +5,7 @@ Reply Dose always has the last 3 blocks of the MAC of the 11-13 byte
 Payload always in "|"
 Init1 (from Server):
 5a a5 00 07|02 05 0d 07 05 07 12|c6 5b b5
-               ** ** ** ** ** **													** Seem to be coincidental
+               ** ** ** ** ** **													** Seem to be random
 5a a5 00 01|02|fd 5b b5
 Antwort auf Init1 von Dose:
 5A A5 00 0B|03 01 0A C0 32 23 62 8A 7E 01 C2|AF 5B B5
